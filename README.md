@@ -22,3 +22,4 @@ It will ask you which recipe you want to see or open then you will choose the re
 If you enter a recipe which is not available the code will give you error, and it will display the menu again so you can choose your option again
 When you get you recipe write the code will display the recipe name and all the ingrediants with sutable ditails( All the things you indicated )
 After showing you the recipe the code will display the menu, then you'll have to insert/ choose the last option which is "Exit"
+https://github.com/ST10361117-Rinae/Receipe-part-2.git
